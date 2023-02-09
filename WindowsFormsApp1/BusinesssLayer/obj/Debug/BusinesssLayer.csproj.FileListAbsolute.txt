@@ -1,0 +1,15 @@
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\BusinesssLayer.dll.config
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\BusinesssLayer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\BusinesssLayer.pdb
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\DataLayer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\EntityFramework.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\DataLayer.pdb
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\DataLayer.dll.config
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\EntityFramework.xml
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\obj\Debug\BusinesssLayer.csprojAssemblyReference.cache
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\obj\Debug\BusinesssLayer.csproj.CoreCompileInputs.cache
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\obj\Debug\BusinesssLayer.csproj.CopyComplete
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\obj\Debug\BusinesssLayer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\BusinesssLayer\obj\Debug\BusinesssLayer.pdb

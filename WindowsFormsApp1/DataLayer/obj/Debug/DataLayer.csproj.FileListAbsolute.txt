@@ -1,0 +1,12 @@
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\DataLayer.dll.config
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\DataLayer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\DataLayer.pdb
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\EntityFramework.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\EntityFramework.xml
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\obj\Debug\DataLayer.dll
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\obj\Debug\DataLayer.pdb
+D:\code\QUANLISIEUTHIMINI\WindowsFormsApp1\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
